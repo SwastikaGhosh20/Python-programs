@@ -1,0 +1,5 @@
+print("Hello, Swastika!")
+name = input("What is your name? ")
+print("Nice to meet you, {name}!")
+print(6)
+print(4*12) 
